@@ -1,12 +1,6 @@
 # pose-detection
 Pose detection done for a physical therapy of the knee video using mediapipes library
 
-#########################
-# Knee Bend Pose        #
-# Siddhartha Dubey      #
-# thesiddubey@gmail.com #
-#########################
-
 Instructions:
 
 - Run the jupyter notebook and change the video source accordingly to model and obtain 
